@@ -1,0 +1,45 @@
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Sun, 04 Feb 2024 23:49:34 GMT
+Content-Type: image/svg+xml
+Content-Length: 501
+Last-Modified: Wed, 16 Nov 2022 20:59:46 GMT
+Connection: keep-alive
+ETag: "63754f42-1f5"
+Referrer-Policy: strict-origin-when-cross-origin
+X-Content-Type-Options: nosniff
+Feature-Policy: accelerometer 'none'; camera 'none'; geolocation 'none'; gyroscope 'none'; magnetometer 'none'; microphone 'none'; payment 'none'; usb 'none'
+Content-Security-Policy: default-src 'self'; script-src cdnjs.cloudflare.com 'self'; style-src cdnjs.cloudflare.com 'self' fonts.googleapis.com 'unsafe-inline'; font-src fonts.googleapis.com fonts.gstatic.com cdnjs.cloudflare.com; frame-ancestors 'none'; report-uri https://scotthelme.report-uri.com/r/d/csp/enforce
+Accept-Ranges: bytes
+
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1500" height="300" viewBox="0 0 1500 300" zoomAndPan="disable">
+
+    <style type="text/css"><![CDATA[
+		polygon {
+			fill: rgba(255,255,255,0.035);
+		}
+    ]]></style>
+    
+	<!-- Main -->
+		<polygon points="0,0 275,200 400,100 525,200 750,50 1100,250 1500,0 1500,300 0,300" />
+
+	<!-- Highlights -->
+		<polygon points="0,0 175,300 410,300" />
+		<polygon points="750,50 1100,250 900,365" />
+
+</svg>HTTP/1.1 400 Bad Request
+Server: nginx/1.18.0 (Ubuntu)
+Date: Sun, 04 Feb 2024 23:49:34 GMT
+Content-Type: text/html
+Content-Length: 166
+Connection: close
+Referrer-Policy: strict-origin-when-cross-origin
+X-Content-Type-Options: nosniff
+
+<html>
+<head><title>400 Bad Request</title></head>
+<body>
+<center><h1>400 Bad Request</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>

@@ -1,0 +1,15 @@
+HTTP/1.1 301 Moved Permanently
+Date: Sun, 04 Feb 2024 23:35:54 GMT
+Server: Apache/2.4.6 (Red Hat Enterprise Linux)
+Location: https://www.ndsu.edu/cs/about_us/
+Content-Length: 241
+Connection: close
+Content-Type: text/html; charset=iso-8859-1
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>301 Moved Permanently</title>
+</head><body>
+<h1>Moved Permanently</h1>
+<p>The document has moved <a href="https://www.ndsu.edu/cs/about_us/">here</a>.</p>
+</body></html>
