@@ -17,8 +17,6 @@ import java.util.concurrent.locks.Lock;
 import java.util.concurrent.locks.ReentrantLock;
 
 
-
-
 public class ProxyServer {
 
     //cache is a Map: the key is the URL and the value is the file name of the file that stores the cached content
